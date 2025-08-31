@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii I'm Chandan<br> computer science and engineering student @maharaja institute of technology <br>Thandavapura currently in 3rd semester<br>Knows develop static websites using HTML-CSS |
+Hii I'm Chandan<br> computer science and engineering student @maharaja institute of technology <br>Thandavapura currently in 5rd semester<br>Knows develop static websites using HTML-CSS |
 
 
 ## 🌐 Socials:
